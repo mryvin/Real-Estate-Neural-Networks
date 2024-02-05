@@ -8,7 +8,7 @@
 
   <ul>
     <li><strong><code>NeuralNetworks.ipynb</code></strong>: Jupyter notebook for analysis.</li>
-    <li><strong><code>data/</code></strong>: Dataset file.</li>
+    <li><strong><code>kc_house_data.csv</code></strong>: Dataset file.</li>
   </ul>
 
   <h2>📊 Analysis</h2>
